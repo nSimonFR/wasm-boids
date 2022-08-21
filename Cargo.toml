@@ -1,8 +1,11 @@
 [package]
 name = "wasm-boids"
-version = "0.1.0"
+version = "1.0.0"
 authors = ["Nicolas Simon <contact@nsimon.fr>"]
 edition = "2018"
+description = "Flocking Birds as WebAssembly NPM package"
+repository = "https://github.com/nSimonFR/wasm-boids"
+license = "MIT"
 
 [lib]
 crate-type = ["cdylib", "rlib"]

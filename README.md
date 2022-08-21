@@ -4,12 +4,15 @@
 
   <strong>Flocking Birds as WebAssembly NPM package thanks to <a href="https://github.com/rustwasm/wasm-pack">wasm-pack</a>.</strong>
 
+  [https://www.npmjs.com/package/wasm-boids](https://www.npmjs.com/package/wasm-boids)
+
   <sub>Built with 🦀🕸 by <a href="https://nsimon.fr">nSimon</a> based on work from <a href="https://rustwasm.github.io/">The Rust and WebAssembly Working Group</a></sub>
 </div>
 
 ## 📚 About
 
-<img src="image.png">
+
+<img src="https://github.com/nSimonFR/wasm-boids/raw/master/image.png">
 
 Implements `Boid`, `Vec2d`, `Universe` & `Rules` - scales better than my previous JS-based implementation.
 
