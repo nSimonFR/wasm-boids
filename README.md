@@ -11,6 +11,7 @@
 
 ## 📚 About
 
+Demo available @ [nsimon.fr](https://nsimon.fr) 👀
 
 <img src="https://github.com/nSimonFR/wasm-boids/raw/master/image.png">
 
